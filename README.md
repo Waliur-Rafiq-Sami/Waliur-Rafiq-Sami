@@ -1,4 +1,4 @@
-# ## Hi there 👋, I'm Waliur Rafiq Sami
+#Hi👋, I'm Waliur Rafiq Sami
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
